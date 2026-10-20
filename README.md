@@ -161,7 +161,7 @@ Your browser does not support embedded video. <a href="demos/PolyPool V2 Demo-1.
 <li>Sensor integration</li>
 </ul>
 <div class="project-links">
-<a href="https://cpslo-my.sharepoint.com/:b:/r/personal/dbchou_calpoly_edu/Documents/Navigation%20Recap.pdf?d=wbccfec373f4346fc87d45068c47fca3a&csf=1&web=1&e=h0KwTi">Learn More</a>
+<a href="demos/Navigation Recap.pdf">Learn More</a>
 </div>
 <!-- Upload videos/bierfish-navigation.mp4, or change the source and fallback link below. -->
 <figure class="project-demo">
@@ -199,14 +199,14 @@ Your browser does not support embedded video. <a href="videos/bank-heist.mp4">Op
 <div class="project-links">
 <a href="https://github.com/kodychou?tab=repositories" aria-label="Browse my other projects on GitHub">Browse other projects</a>
 </div>
-<!-- Upload videos/other-projects.mp4, or change the source and fallback link below. -->
+<!-- Upload videos/other-projects.mp4, or change the source and fallback link below. 
 <figure class="project-demo">
 <video controls playsinline preload="metadata" width="1280" height="720" aria-label="Other Projects demonstration video">
 <source src="videos/other-projects.mp4" type="video/mp4">
 Your browser does not support embedded video. <a href="videos/other-projects.mp4">Open the Other Projects demo video</a>.
 </video>
 <figcaption>Other Projects demo</figcaption>
-</figure>
+</figure> -->
 </article>
 </section>
 <aside id="languages" class="sidebar" aria-labelledby="languages-heading">
