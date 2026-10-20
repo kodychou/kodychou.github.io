@@ -1,3 +1,61 @@
-theme: jekyll-theme-minimal
-title: Dakota Chou's homepage
-description: Bookmark this to keep an eye on my project updates!
+    description: >-
+      Navigation and control software for a free-swimming robotic fish,
+      developed during my internship with the University of Virginia's BIER
+      Lab. I used Python and C++ for marker-relative navigation, motor control,
+      and onboard sensor data collection, enabling the robot to navigate
+      around obstacles toward a goal.
+    technologies: ["Python", "C++", "Motor control", "Sensor integration"]
+    demo_url: ""
+    source_url: ""
+
+  - name: "Bank Heist Game"
+    category: "Game development · Stealth"
+    description: >-
+      A game I created that challenges players to navigate a bank, steal as
+      much money as possible, and escape without getting caught. Each run
+      asks players to balance a bigger payout against the risk of detection.
+    technologies: ["Game development", "Gameplay systems"]
+    demo_url: ""
+    source_url: ""
+
+  - name: "Other Projects"
+    category: "More to explore"
+    description: >-
+      More programming projects and experiments. Get in touch to learn about
+      additional work, or browse the collection when a link is available.
+    technologies: []
+    demo_url: "" # Link to a project collection or your GitHub repositories.
+    demo_label: "Browse projects"
+    source_url: ""
+
+# Customize these familiarity labels to reflect your own assessment.
+# Project experience = used in a featured project; Familiar = listed on resume.
+# Replace with Advanced, Intermediate, or Foundational if you prefer.
+languages:
+  - name: "C#"
+    level: "Project experience"
+  - name: "Python"
+    level: "Project experience"
+  - name: "C++"
+    level: "Project experience"
+  - name: "JavaScript"
+    level: "Project experience"
+  - name: "TypeScript"
+    level: "Familiar"
+  - name: "C"
+    level: "Familiar"
+  - name: "Java"
+    level: "Familiar"
+  - name: "Swift"
+    level: "Familiar"
+  - name: "Assembly"
+    level: "Familiar"
+
+web_technologies: ["HTML", "React", "Express"]
+tools: ["Unity", "Git", "Figma", "Xcode", "VS Code", "Arduino", "Raspberry Pi"]
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
