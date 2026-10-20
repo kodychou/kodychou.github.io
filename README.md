@@ -69,6 +69,11 @@ body { margin: 0; background: var(--bg); }
 .portfolio .count { font-size: 10px; }
 }
 @media (prefers-reduced-motion: reduce) { html { scroll-behavior: auto; } }
+
+/* Inline project demos: upload the MP4 files to videos/ beside README.md. */
+.portfolio .project-demo { margin: 20px 0 0; }
+.portfolio .project-demo video { display: block; width: 100%; max-width: 100%; height: auto; aspect-ratio: 16 / 9; object-fit: contain; border-radius: 10px; background: #102522; }
+.portfolio .project-demo figcaption { margin-top: 8px; color: var(--muted); font-size: 12px; }
 </style>
 
 <div class="portfolio" markdown="0">
@@ -114,6 +119,14 @@ Dakota Chou
 <div class="project-links">
 <a href="https://laes.calpoly.edu/Aerospace-VR">About the project</a>
 </div>
+<!-- Upload videos/aerospace-vr.mp4, or change the source and fallback link below. -->
+<!-- <figure class="project-demo">
+<video controls playsinline preload="metadata" width="1280" height="720" aria-label="AeroSpace VR demonstration video">
+<source src="videos/aerospace-vr.mp4" type="video/mp4">
+Your browser does not support embedded video. <a href="videos/aerospace-vr.mp4">Open the AeroSpace VR demo video</a>.
+</video>
+<figcaption>AeroSpace VR demo</figcaption>
+</figure> -->
 </article>
 <article class="project" aria-labelledby="project-2">
 <p class="eyebrow">Web development · Team leadership</p>
@@ -128,6 +141,14 @@ Dakota Chou
 <div class="project-links">
 <a href="https://polypool.org" aria-label="View project: PolyPool.org">View project </a>
 </div>
+<!-- Upload videos/polypool.mp4, or change the source and fallback link below. -->
+<figure class="project-demo">
+<video controls playsinline preload="metadata" width="1280" height="720" aria-label="PolyPool.org demonstration video">
+<source src="demos/PolyPool V2 Demo-1.mp4" type="video/mp4">
+Your browser does not support embedded video. <a href="demos/PolyPool V2 Demo-1.mp4">Open the PolyPool.org demo video</a>.
+</video>
+<figcaption>PolyPool.org demo</figcaption>
+</figure>
 </article>
 <article class="project" aria-labelledby="project-3">
 <p class="eyebrow">Robotics · Embedded systems</p>
@@ -142,6 +163,14 @@ Dakota Chou
 <div class="project-links">
 <a href="https://cpslo-my.sharepoint.com/:b:/r/personal/dbchou_calpoly_edu/Documents/Navigation%20Recap.pdf?d=wbccfec373f4346fc87d45068c47fca3a&csf=1&web=1&e=h0KwTi">Learn More</a>
 </div>
+<!-- Upload videos/bierfish-navigation.mp4, or change the source and fallback link below. -->
+<figure class="project-demo">
+<video controls playsinline preload="metadata" width="1280" height="720" aria-label="BIERfish Navigation demonstration video">
+<source src="demos/NavVideo.mp4" type="video/mp4">
+Your browser does not support embedded video. <a href="demos/NavVideo.mp4">Open the BIERfish Navigation demo video</a>.
+</video>
+<figcaption>BIERfish Navigation demo</figcaption>
+</figure>
 </article>
 <article class="project" aria-labelledby="project-4">
 <p class="eyebrow">Game development</p>
@@ -152,16 +181,32 @@ Dakota Chou
 <li>Gameplay systems</li>
 </ul>
 <div class="project-links">
-<a href="https://kodychou.itch.io/bank-heist" aria-label="Ask about Bank Heist Game">Ask about this project</a>
+<a href="https://kodychou.itch.io/bank-heist" aria-label="Play Bank Heist Game">Play the game</a>
 </div>
+<!-- Upload videos/bank-heist.mp4, or change the source and fallback link below. -->
+<!--<figure class="project-demo">
+<video controls playsinline preload="metadata" width="1280" height="720" aria-label="Bank Heist Game demonstration video">
+<source src="videos/bank-heist.mp4" type="video/mp4">
+Your browser does not support embedded video. <a href="videos/bank-heist.mp4">Open the Bank Heist Game demo video</a>.
+</video>
+<figcaption>Bank Heist Game demo</figcaption>
+</figure> -->
 </article>
 <article class="project" aria-labelledby="project-5">
 <p class="eyebrow">More to explore</p>
 <h3 id="project-5">Other Projects</h3>
-<p class="description">More programming projects and experiments. Get in touch to learn about additional work, or browse the collection when a link is available.</p>
+<p class="description">More programming projects and experiments. Watch the demo below or browse my GitHub repositories for additional work.</p>
 <div class="project-links">
-<a href="mailto:dakota_chou06@outlook.com?subject=Other+Projects" aria-label="Ask about Other Projects">Ask about my other projects</a>
+<a href="https://github.com/kodychou?tab=repositories" aria-label="Browse my other projects on GitHub">Browse other projects</a>
 </div>
+<!-- Upload videos/other-projects.mp4, or change the source and fallback link below. -->
+<figure class="project-demo">
+<video controls playsinline preload="metadata" width="1280" height="720" aria-label="Other Projects demonstration video">
+<source src="videos/other-projects.mp4" type="video/mp4">
+Your browser does not support embedded video. <a href="videos/other-projects.mp4">Open the Other Projects demo video</a>.
+</video>
+<figcaption>Other Projects demo</figcaption>
+</figure>
 </article>
 </section>
 <aside id="languages" class="sidebar" aria-labelledby="languages-heading">
