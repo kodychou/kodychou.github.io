@@ -1,3 +1,11 @@
+  - name: "PolyPool Ridesharing Site" 
+    description: >-
+      Ride sharing site developed by Calpoly students for Calpoly students
+    technologies: ["JavaScript, CSS, Node, Express"]
+    demo_url: "polypool.org"
+    source_url: ""
+
+  - name: "Bierfish Navigation Program" 
     description: >-
       Navigation and control software for a free-swimming robotic fish,
       developed during my internship with the University of Virginia's BIER
@@ -5,8 +13,9 @@
       and onboard sensor data collection, enabling the robot to navigate
       around obstacles toward a goal.
     technologies: ["Python", "C++", "Motor control", "Sensor integration"]
-    demo_url: ""
+    demo_url: "https://cpslo-my.sharepoint.com/:b:/g/personal/dbchou_calpoly_edu/IQA37M-8Qz_8RofUUGjEf8o6AaPerW19W79tfdiu6eVRcJ0?e=0v0xpj"
     source_url: ""
+
 
   - name: "Bank Heist Game"
     category: "Game development · Stealth"
@@ -15,8 +24,8 @@
       much money as possible, and escape without getting caught. Each run
       asks players to balance a bigger payout against the risk of detection.
     technologies: ["Game development", "Gameplay systems"]
-    demo_url: ""
-    source_url: ""
+    demo_url: "https://kodychou.itch.io/bank-heist"
+    source_url: "https://github.com/kodychou/Asgn4-Game"
 
   - name: "Other Projects"
     category: "More to explore"
