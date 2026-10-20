@@ -86,11 +86,11 @@ Dakota Chou
 <main id="main">
 <section id="about" class="hero" aria-labelledby="about-heading">
 <p class="eyebrow">About me</p>
-<h1 id="about-heading">I build games, web applications, and robotic systems.</h1>
+<h1 id="about-heading">Dakota Chou</h1>
 <p class="role">Computer Science · Cal Poly San Luis Obispo</p>
-<p class="about">I&#x27;m a computer science student at Cal Poly San Luis Obispo, graduating in June 2027. My work spans interactive VR experiences, community-focused web applications, and embedded navigation systems. I bring hands-on development experience and team leadership to projects that connect software with the way people learn, travel, and explore.</p>
+<p class="about">I&#x27;m a computer science student at Cal Poly San Luis Obispo, graduating in May 2028. My work spans interactive VR experiences, community-focused web applications, and embedded navigation systems. I bring hands-on development experience and team leadership to projects that connect software with the way people learn, travel, and explore.</p>
 <div class="actions">
-<a class="button primary" href="#projects">Explore my work <span aria-hidden="true">&nbsp;↘</span></a>
+<a class="button primary" href="https://github.com/kodychou)>Explore my work <span aria-hidden="true">&nbsp;↘</span></a>
 <a class="button" href="mailto:dakota_chou06@outlook.com">Get in touch</a>
 <a class="button" href="https://www.linkedin.com/in/dakota-chou-011941272/">LinkedIn <span aria-hidden="true">&nbsp;↗</span></a>
 </div>
@@ -112,7 +112,7 @@ Dakota Chou
 <li>Agile</li>
 </ul>
 <div class="project-links">
-<a href="mailto:dakota_chou06@outlook.com?subject=AeroSpace+VR" aria-label="Ask about AeroSpace VR">Ask about this project <span aria-hidden="true">↗</span></a>
+<a href="https://laes.calpoly.edu/Aerospace-VR">About the project <span aria-hidden="true">↗</span></a>
 </div>
 </article>
 <article class="project" aria-labelledby="project-2">
@@ -140,11 +140,11 @@ Dakota Chou
 <li>Sensor integration</li>
 </ul>
 <div class="project-links">
-<a href="mailto:dakota_chou06@outlook.com?subject=BIERfish+Navigation" aria-label="Ask about BIERfish Navigation">Ask about this project <span aria-hidden="true">↗</span></a>
+<a href="https://cpslo-my.sharepoint.com/:b:/r/personal/dbchou_calpoly_edu/Documents/Navigation%20Recap.pdf?d=wbccfec373f4346fc87d45068c47fca3a&csf=1&web=1&e=h0KwTi">Learn More <span aria-hidden="true">↗</span></a>
 </div>
 </article>
 <article class="project" aria-labelledby="project-4">
-<p class="eyebrow">Game development · Stealth</p>
+<p class="eyebrow">Game development</p>
 <h3 id="project-4">Bank Heist Game</h3>
 <p class="description">A game I created that challenges players to navigate a bank, steal as much money as possible, and escape without getting caught. Each run asks players to balance a bigger payout against the risk of detection.</p>
 <ul class="tags" aria-label="Technologies and focus areas">
@@ -152,7 +152,7 @@ Dakota Chou
 <li>Gameplay systems</li>
 </ul>
 <div class="project-links">
-<a href="mailto:dakota_chou06@outlook.com?subject=Bank+Heist+Game" aria-label="Ask about Bank Heist Game">Ask about this project <span aria-hidden="true">↗</span></a>
+<a href="https://kodychou.itch.io/bank-heist" aria-label="Ask about Bank Heist Game">Ask about this project <span aria-hidden="true">↗</span></a>
 </div>
 </article>
 <article class="project" aria-labelledby="project-5">
@@ -160,7 +160,7 @@ Dakota Chou
 <h3 id="project-5">Other Projects</h3>
 <p class="description">More programming projects and experiments. Get in touch to learn about additional work, or browse the collection when a link is available.</p>
 <div class="project-links">
-<a href="mailto:dakota_chou06@outlook.com?subject=Other+Projects" aria-label="Ask about Other Projects">Ask about this project <span aria-hidden="true">↗</span></a>
+<a href="mailto:dakota_chou06@outlook.com?subject=Other+Projects" aria-label="Ask about Other Projects">Ask about my other projects <span aria-hidden="true">↗</span></a>
 </div>
 </article>
 </section>
