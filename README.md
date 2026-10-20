@@ -90,7 +90,7 @@ Dakota Chou
 <p class="role">Computer Science · Cal Poly San Luis Obispo</p>
 <p class="about">I&#x27;m a computer science student at Cal Poly San Luis Obispo, graduating in May 2028. My work spans interactive VR experiences, community-focused web applications, and embedded navigation systems. I bring hands-on development experience and team leadership to projects that connect software with the way people learn, travel, and explore.</p>
 <div class="actions">
-<a class="button primary" href="https://github.com/kodychou)>Explore my work <span aria-hidden="true">&nbsp;↘</span></a>
+<a class="button primary" href="https://github.com/kodychou">Explore my work <span aria-hidden="true">&nbsp;↘</span></a>
 <a class="button" href="mailto:dakota_chou06@outlook.com">Get in touch</a>
 <a class="button" href="https://www.linkedin.com/in/dakota-chou-011941272/">LinkedIn <span aria-hidden="true">&nbsp;↗</span></a>
 </div>
